@@ -1,2 +1,2 @@
-# intStack Librarie
-This is a intStack Librarie for C language developed on Data Structure class of the Computer Engineering course.
+# intStack Library
+This is a intStack Library for C language developed on Data Structure class of the Computer Engineering course.
